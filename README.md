@@ -1,6 +1,9 @@
 # KULTRA-MEGA-STORES-SQL-ANALYSIS
 SQL-based data analysis of Kultra Mega Stores inventory and customer orders from 2009–2012. Part of DSA Capstone Project.
 
+[Company Overview](#company-overview)
+
+
 ## 🏢 Company Overview
 Kultra Mega Stores (KMS) is a major provider of office supplies and furniture in Nigeria. This analysis focuses on its Abuja division using historical order data from 2009 to 2012. The aim is to generate insights to support strategic decision-making.
 
